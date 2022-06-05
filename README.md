@@ -1,23 +1,24 @@
-
 ## Hi, I'm Ahmed! 👋
 
 
 ## 🚀 I'm a front-end developer...
 
 
-#  Wix Template
+#  Wix
+I built this project using (HTML, CSS, JavaScript and Bootstrap).
 
-## What you will Find in Template
+in that project you will find :
 
-- Fully Responsive Template.
-- Change Navbar Color In Scrolling.
-- Change Tabs Content
-- Scroll To the Top Smoothly
-## Tech Stack
+1- Change Navbar Color In Scrolling.
 
-**Client:** HTML, CSS, JavaScript, Bootstrap
+2- Change Tabs Content.
+
+3- Scroll To the Top Smoothly.
+
+4- Website is fully responsive by [Bootstrap].
 
 ## For Live Preview [Click Here](https://ahmed-abouelfetouh.github.io/wix-template/)
+
 ## Project Screenshots
 
 ![navbar-Scroll.png](https://i.postimg.cc/R01mMz84/navbar-Scroll.png)
